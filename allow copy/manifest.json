@@ -2,7 +2,7 @@
     "name": "Allow copy on rozbor-dila",
     "version": "0.0",
     "description": "Allow copy on rozbor-dila",
-    "permissions": ["storage", "tabs", "activeTab"],
+    "permissions": ["webRequest", "webRequestBlocking", "http://*/", "https://*/", "storage", "tabs", "activeTab"],
     "background": {
         "scripts": ["background.js"]
 
@@ -10,10 +10,7 @@
     "browser_action": {
 
     },
-    "content_scripts": [{
-        "js": ["jquery.min.js", "background.js"],
-        "matches": ["http://*/*", "https://*/*"]
-    }],
+
     "manifest_version": 2
 
 }
