@@ -1,9 +1,9 @@
 # Allow copy 
 
-Toto rozšíření je určeno pouze pro určitou skupinu lidí, ktřáí mají ode mne povolení ho použít
+Toto rozšíření je určeno pouze pro určitou skupinu lidí, ktří mají ode mně povolení ho použít
 Toto chrome rozšíření povolí kopírování na jedné specifické stránce
 
-## How to install
+## Návod k instalaci
 
 - Klikněte na "Code"
 - Klikněte na "Download zip"
@@ -16,7 +16,7 @@ Toto chrome rozšíření povolí kopírování na jedné specifické stránce
 - znovu klikněte na pucle
 - klikněte na připínáček vedle rozšíření co jste zrovna přidali
 
-## How to use
+## Návod k použití
 
 - Jděte na článek, na kterém chcete povolit kopírování na stránce rozbor díla
 - Klikněte na rozšíření
