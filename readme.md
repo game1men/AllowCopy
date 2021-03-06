@@ -18,5 +18,4 @@ Toto chrome rozšíření povolí kopírování na jedné specifické stránce
 
 ## Návod k použití
 
-- Jděte na článek, na kterém chcete povolit kopírování na stránce rozbor díla
-- Klikněte na rozšíření
+- Automaticky povolí kopírování na té stránce, není třeba nic dělat
