@@ -1,6 +1,6 @@
 # Allow copy 
 
-Toto rozšíření je určeno pouze pro určitou skupinu lidí, ktří mají ode mně povolení ho použít
+Toto rozšíření je určeno pouze pro určitou skupinu lidí, kteří mají ode mně povolení ho použít
 Toto chrome rozšíření povolí kopírování na jedné specifické stránce
 
 ## Návod k instalaci
