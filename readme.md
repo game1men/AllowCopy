@@ -13,8 +13,6 @@ Toto chrome rozšíření povolí kopírování na jedné specifické stránce
 - Povolte režim pro vývojáře
 - klikněte na "Načíst nerozbalené"
 - Vyberte složku, kterou jste rozbalili v prvním kroku
-- znovu klikněte na pucle
-- klikněte na připínáček vedle rozšíření co jste zrovna přidali
 
 ## Návod k použití
 
