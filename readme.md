@@ -12,7 +12,7 @@ Toto chrome rozšíření povolí kopírování na jedné specifické stránce
 - Klikněte na Správa rozšíření
 - Povolte režim pro vývojáře
 - klikněte na "Načíst nerozbalené"
-- Vyberte složku, kterou jste rozbalili v prvním kroku
+- Vyberte složku, která obsahuje manifest.json
 
 ## Návod k použití
 
