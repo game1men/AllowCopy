@@ -8,7 +8,11 @@ Toto chrome rozšíření povolí kopírování na jedné specifické stránce
 - Klikněte na "Code"
 - Klikněte na "Download zip"
 - rozbalte zip
-- Klikněte na ikonu pucle ve vašem prohlížeči
+- Klikněte na ikonu pucle ve vašem prohlížeči 
+  - nebo přejděte na jeden z těchto odkazů:
+    - Brave: brave://extensions/
+    - Chrome: chrome://extensions/
+    - Edge: edge://extensions/
 - Klikněte na Správa rozšíření
 - Povolte režim pro vývojáře
 - klikněte na "Načíst nerozbalené"
