@@ -13,6 +13,7 @@ Toto chrome rozšíření povolí kopírování na jedné specifické stránce
     - Brave: brave://extensions/
     - Chrome: chrome://extensions/
     - Edge: edge://extensions/
+    - Opera: opera://extensions/
 - Klikněte na Správa rozšíření
 - Povolte režim pro vývojáře
 - klikněte na "Načíst nerozbalené"
